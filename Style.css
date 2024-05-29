@@ -1,0 +1,9 @@
+.container-content{
+    background-color: black;
+}
+
+.small-image {
+    display: flex;
+    justify-image: center;
+    align-items: center;
+}
